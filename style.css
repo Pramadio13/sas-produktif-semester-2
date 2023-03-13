@@ -1,0 +1,104 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+h2 {
+    border: solid;
+    color: blue;
+    border-color: green;
+    
+}
+
+.container {
+    width: 1200px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 2rem;
+    
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #00FF00;
+    margin: 5px;
+}
+
+.nav1{
+    width: 50%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+    margin: 5px;
+}
+.nav2{
+    width: 50%;
+    height: 100px;
+    background-color: #00FF00;
+    float: right;
+    margin: 5px;
+
+}
+
+.d {
+    width: 33.3%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+}
+
+.e {
+    width: 33.3%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+}
+
+.f {
+    width: 33.3%;
+    height: 100px;
+    background-color: #00FF00;
+    float: right;
+}
+
+.g {
+    width: 25%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+}
+
+.h {
+    width: 25%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+}
+
+.i {
+    width: 25%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+}
+
+.j {
+    width: 25%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+}
+
+.kotak{
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a {
+    color: black;
+    background-color: yellow;
+}
